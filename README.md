@@ -1,5 +1,5 @@
 # Comunicacao-ClientxServer
-## Aula 1 - História da Internet
+## Aula 1 - História da Web
 - A história da internet começa no ambiente da Guerra Fria (1945-1991). As duas super potências envolvidas, Estados Unidos e União Soviética, estavam divididas nos blocos socialista e capitalista e disputavam poderes e hegemonias.
 - Com o intuito de facilitar a troca de informações, pois temiam ataques dos soviéticos, o Departamento de Defesa dos Estados Unidos (ARPA - Advanced Research Projects Agency) criou um sistema de compartilhamento de informações entre pessoas distantes geograficamente, a fim de facilitar as estratégias de guerra.
 - Nesse momento, surge o protótipo da primeira rede de internet, a Arpanet (Advanced Research Projects Agency Network).
@@ -46,4 +46,36 @@
 - cliente é quem consome a informação.
 
 [![](https://mermaid.ink/img/pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzSspjlWw0dW1U3DR0Pgwv2eCgmdeSWpRXmqJpiZEsRNQ8bSl73f0E6ceoglTEqQJqMsVaFr_GoXg1KKy1KJYqA4opaSjlJtalJuYmQJ0cjVIMEapJCM1NzVGyQrITElNSyzNKYlRismrBSpNLC3JD67MS1ayKikqTdVRKi1ISSxJdclMBPo1V8kqLTGnGCiampJZkl_kCwkGcGjUAgDF7GAD?type=png)](https://mermaid.live/edit#pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzSspjlWw0dW1U3DR0Pgwv2eCgmdeSWpRXmqJpiZEsRNQ8bSl73f0E6ceoglTEqQJqMsVaFr_GoXg1KKy1KJYqA4opaSjlJtalJuYmQJ0cjVIMEapJCM1NzVGyQrITElNSyzNKYlRismrBSpNLC3JD67MS1ayKikqTdVRKi1ISSxJdclMBPo1V8kqLTGnGCiampJZkl_kCwkGcGjUAgDF7GAD)
+
+- o cliente solicita a informação ao servidor, e ele retorna o arquivo.
+- esses arquivos podem ser dinamico ou estáticos.
+
+### Sites Estáticos:
+Um site estático é composto de páginas da web criadas usando HTML, CSS e Javascript 
+Cada página de um site estático é armazenada como um único arquivo HTML, que é entregue do servidor diretamente para a página da web da forma como está. Esse conteúdo se torna parte do design da sua página e não mudará a menos que o arquivo HTML original seja editado usando código.
+
+
+#### Vantagens de um site Estático:
+- Velocidade mais rápida de carregamento da página
+- Criação rápida
+- Segurança potencialmente maior
+
+#### Desvantágens de um site Estático:
+- Escalabilidade limitada
+- Gestão menos eficiente
+
+### Sites Dinâmicos
+São criados utilizando linguagem e tecnologia do lado do servidor, os sites dinâmicos permitem que o conteúdo de cada página seja entregue e exibido dinamicamente
+Os Sites dinâmicos oferecem a possibilidade de personalizar o conteúdo do site para um usuário específico. Eles também permitem que você faça alterações em várias páginas ao mesmo tempo, pois as modificações feitas em uma página dinâmica podem ser automaticamente aplicadas a milhares.
+
+#### Vantagens de um site Dinâmico:
+- Atualização fácil
+- Melhor experiência do usuário
+- Mais funcionalidades
+  
+#### Desvantágens de um site Estático:
+- Necessidade de mais recursos para a criação
+- Problemas de desempenho
+
+  
 
