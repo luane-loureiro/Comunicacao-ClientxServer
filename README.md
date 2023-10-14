@@ -107,10 +107,8 @@ são soluções criadas que possuem a internet como meio de municação entre cl
 [![](https://mermaid.ink/img/pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzStJjVWw0dW1U3DR0Pgwf3rL-x39Cj6JeQq6CsWpRWWZKflFCjn5yYk5mpoQvU5AvdOWglSRpd0dqH3yRrL0QgwgqBZipCvQnunNIFXBMPlYhCkxeVBKSUcpN7UoNzEzBRhK1SDBGKWSjNTc1BglKyAzJTUtsTSnJEYpJq8WqDSxtCQ_uDIvWcmqpKg0VUeptCAlsSTVJTMRGLy5SlZpiTnFQNHUlMyS_CJfSMiDI6AWAOE_jFI?type=png)](https://mermaid.live/edit#pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzStJjVWw0dW1U3DR0Pgwf3rL-x39Cj6JeQq6CsWpRWWZKflFCjn5yYk5mpoQvU5AvdOWglSRpd0dqH3yRrL0QgwgqBZipCvQnunNIFXBMPlYhCkxeVBKSUcpN7UoNzEzBRhK1SDBGKWSjNTc1BglKyAzJTUtsTSnJEYpJq8WqDSxtCQ_uDIvWcmqpKg0VUeptCAlsSTVJTMRGLy5SlZpiTnFQNHUlMyS_CJfSMiDI6AWAOE_jFI)
 
 - Rede local são vários computadores que se ligam entre sí e tem um computador central como apoio.
-
-cliente PC <-------------->
-client lap top <----------> servidor
-cient smart phones <------>
+  
+[![](https://mermaid.ink/img/pako:eNqVkcFKAzEQhl9lmFMXui-wFKFuVYQKRcWL6WHYTG0gm4Q0EaT05lFQFPTYkw_gTfSh7COYdXuwve1cMvz83z-Qf4mVlYwFwo0nN4fxuTCQZni9WT9_gyYXrJvCIM8PYNTrbdZv9z-fjzAmAzks2N8qaT1oW5HOshY9TOjre-OalN3Ik0S-fEDJOmry3djjhv2Cy6tOWMv-805KkAxDZ5XNMmiCjlLwwxOcmsDecJi2yL4Kezd3crantg_2sWZfk5Lp25eNKDDMuWaBRVolzyjqIFCYVbJSDPbizlRYBB-5j9FJCjxSlPqqsZiRXiSVpQrWn7VV_jW6-gU2Nqj7?type=png)](https://mermaid.live/edit#pako:eNqVkcFKAzEQhl9lmFMXui-wFKFuVYQKRcWL6WHYTG0gm4Q0EaT05lFQFPTYkw_gTfSh7COYdXuwve1cMvz83z-Qf4mVlYwFwo0nN4fxuTCQZni9WT9_gyYXrJvCIM8PYNTrbdZv9z-fjzAmAzks2N8qaT1oW5HOshY9TOjre-OalN3Ik0S-fEDJOmry3djjhv2Cy6tOWMv-805KkAxDZ5XNMmiCjlLwwxOcmsDecJi2yL4Kezd3crantg_2sWZfk5Lp25eNKDDMuWaBRVolzyjqIFCYVbJSDPbizlRYBB-5j9FJCjxSlPqqsZiRXiSVpQrWn7VV_jW6-gU2Nqj7)
 
 #### Tipos de servidores 
 - Arquivos
