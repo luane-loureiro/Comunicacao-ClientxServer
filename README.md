@@ -104,7 +104,7 @@ são soluções criadas que possuem a internet como meio de municação entre cl
 ### Sobre servidores
 - São computadores q oferecem os arquivos para serem consumidos.
 
-  clients <----> Lan (servidor local) <------> servers
+[![](https://mermaid.ink/img/pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzStJjVWw0dW1U3DR0Pgwf3rL-x39Cj6JeQq6CsWpRWWZKflFCjn5yYk5mpoQvU5AvdOWglSRpd0dqH3yRrL0QgwgqBZipCvQnunNIFXBMPlYhCkxeVBKSUcpN7UoNzEzBRhK1SDBGKWSjNTc1BglKyAzJTUtsTSnJEYpJq8WqDSxtCQ_uDIvWcmqpKg0VUeptCAlsSTVJTMRGLy5SlZpiTnFQNHUlMyS_CJfSMiDI6AWAOE_jFI?type=png)](https://mermaid.live/edit#pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzStJjVWw0dW1U3DR0Pgwf3rL-x39Cj6JeQq6CsWpRWWZKflFCjn5yYk5mpoQvU5AvdOWglSRpd0dqH3yRrL0QgwgqBZipCvQnunNIFXBMPlYhCkxeVBKSUcpN7UoNzEzBRhK1SDBGKWSjNTc1BglKyAzJTUtsTSnJEYpJq8WqDSxtCQ_uDIvWcmqpKg0VUeptCAlsSTVJTMRGLy5SlZpiTnFQNHUlMyS_CJfSMiDI6AWAOE_jFI)
 
 - Rede local são vários computadores que se ligam entre sí e tem um computador central como apoio.
 
