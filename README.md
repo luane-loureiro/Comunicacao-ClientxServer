@@ -92,7 +92,8 @@ Os Sites dinâmicos oferecem a possibilidade de personalizar o conteúdo do site
 
 ### Aplicações Web
 são soluções criadas que possuem a internet como meio de municação entre cliente x server não sendo necessaria sua instalação.
-Client <--> internet <--> server <--> Banco de Dados
+
+[![](https://mermaid.ink/img/pako:eNqNkLFqAkEQhl9lmEpBX-AQIXJJCMRGy9srhtsxLtztyroXCOIbBAwG0l4Ve7uA4CvlHsExaxUbp5nh_7-fgX-FhdOMCcKLp8UcnifKgsxd1jbbAxSlYRs4h0G_P4S002mb9w94EslbDt1uhEcCf33__mxu5B-F_9zfBsfEtRlD99mU_avRzkPbbHZ5pP-rkX3IRmQLB5ohJe2W4m2P-eXJZWEPK_YVGS2VrM6iwjDnihUmcmqeUV0GhcquBaU6uOmbLTAJvuYe1gtNgVND0mWFyYzKpaisTXB-HGv-a3t9AuF_gxo?type=png)](https://mermaid.live/edit#pako:eNqNkLFqAkEQhl9lmEpBX-AQIXJJCMRGy9srhtsxLtztyroXCOIbBAwG0l4Ve7uA4CvlHsExaxUbp5nh_7-fgX-FhdOMCcKLp8UcnifKgsxd1jbbAxSlYRs4h0G_P4S002mb9w94EslbDt1uhEcCf33__mxu5B-F_9zfBsfEtRlD99mU_avRzkPbbHZ5pP-rkX3IRmQLB5ohJe2W4m2P-eXJZWEPK_YVGS2VrM6iwjDnihUmcmqeUV0GhcquBaU6uOmbLTAJvuYe1gtNgVND0mWFyYzKpaisTXB-HGv-a3t9AuF_gxo)
 
 ### Dispositivos móveis
 - laptop, tablets, celulares, ipads, samert watch, videogames...
@@ -117,5 +118,5 @@ cient smart phones <------>
 - Streaming
 - E-mail
 - Web
-   
+   📱
 
