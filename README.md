@@ -116,5 +116,4 @@ são soluções criadas que possuem a internet como meio de municação entre cl
 - Streaming
 - E-mail
 - Web
-   📱
 
