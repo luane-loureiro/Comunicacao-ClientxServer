@@ -48,7 +48,9 @@
 [![](https://mermaid.ink/img/pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzSspjlWw0dW1U3DR0Pgwv2eCgmdeSWpRXmqJpiZEsRNQ8bSl73f0E6ceoglTEqQJqMsVaFr_GoXg1KKy1KJYqA4opaSjlJtalJuYmQJ0cjVIMEapJCM1NzVGyQrITElNSyzNKYlRismrBSpNLC3JD67MS1ayKikqTdVRKi1ISSxJdclMBPo1V8kqLTGnGCiampJZkl_kCwkGcGjUAgDF7GAD?type=png)](https://mermaid.live/edit#pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzSspjlWw0dW1U3DR0Pgwv2eCgmdeSWpRXmqJpiZEsRNQ8bSl73f0E6ceoglTEqQJqMsVaFr_GoXg1KKy1KJYqA4opaSjlJtalJuYmQJ0cjVIMEapJCM1NzVGyQrITElNSyzNKYlRismrBSpNLC3JD67MS1ayKikqTdVRKi1ISSxJdclMBPo1V8kqLTGnGCiampJZkl_kCwkGcGjUAgDF7GAD)
 
 - o cliente solicita a informação ao servidor, e ele retorna o arquivo.
-- esses arquivos podem ser dinamico ou estáticos.
+- Esses arquivos podem ser dinamico ou estáticos.
+- Conteudos estaticos são enviados diretamente do servidor para o cliente.
+- quando o servidor envia os arquivos os navegadores crian arquivos cash, q sao utilizados pra carregar o site mais rapidamnte da proxima vez que o cliente tentar acessar o site.
 
 ### Sites Estáticos:
 Um site estático é composto de páginas da web criadas usando HTML, CSS e Javascript 
@@ -77,5 +79,43 @@ Os Sites dinâmicos oferecem a possibilidade de personalizar o conteúdo do site
 - Necessidade de mais recursos para a criação
 - Problemas de desempenho
 
+### Design Despomsivo e Responsabilidade
+- um site responsivo deve se adaptar de forma legivel em qualquer dispositivo.
+- Também deve ser compativel com diferentes tipos de navegadores.
   
+### Navegadores
+- são programas criados por empresas, utizados para abrir/executar arquivos.
+- Seguem padrões W3S, porem, sempre tem uma diferença ou outra interpretação.
+- também são chamados de "browsers"
+- Iniciou com o MOSAIC, passou para netscape e hoje temos uma variedade de navegadores disponíveis.
+- Gratuítos.
+
+### Aplicações Web
+são soluções criadas que possuem a internet como meio de municação entre cliente x server não sendo necessaria sua instalação.
+Client <--> internet <--> server <--> Banco de Dados
+
+### Dispositivos móveis
+- laptop, tablets, celulares, ipads, samert watch, videogames...
+- A internt já não é o futuro, ja estamos vivendo ele.
+- a internet est'presente em nossas vidade, e majoritáriamente através dos dispositivos móveis.
+
+## Aula 3 - O que são servidores?
+### Sobre servidores
+- São computadores q oferecem os arquivos para serem consumidos.
+
+  clients <----> Lan (servidor local) <------> servers
+
+- Rede local são vários computadores que se ligam entre sí e tem um computador central como apoio.
+
+cliente PC <-------------->
+client lap top <----------> servidor
+cient smart phones <------>
+
+#### Tipos de servidores 
+- Arquivos
+- Segurança (firewall)
+- Streaming
+- E-mail
+- Web
+   
 
