@@ -116,4 +116,98 @@ são soluções criadas que possuem a internet como meio de municação entre cl
 - Streaming
 - E-mail
 - Web
+  
+### Conceito de Servers
+#### Softwares
+- Sistemas operacionais
+- Monitoramento
+- servidores web
+
+#### Hardware
+- Armazenamento
+- Memória
+- Processadores
+
+#### Sistemas opreacionais
+- Windows server
+- Ubuntu
+- CentOS
+- Debian
+- Fedora
+- Oracle
+
+#### Servidores Web
+- Apache
+- Nginx
+  
+[![](https://mermaid.ink/img/pako:eNplkLFqAzEMhl9FaGrA9wI3FEIypCWBEt9WZxBnJTGc7avPDikhW_dCl44ZOvQVCh3zQM0j1JdAIVSLxC_x8evfYe01Y4mwCtSuYTpXDnINH0-Ht28YNYZd5AUUBcz5KZnOHD-PHx5gUlUPWb2F8c3p8P7y8_UKksPGaB8GF8T_BQx6zqSaTQWMpBRwTxuSdTBtFHBnacWuE1DxNvqiR1-ZWCh35v41FGg5WDI629_1osK4ZssKyzxqXlJqokLl9vmUUvTy2dVYxpBYYGo1RR4byn9bLJfUdFllbaIPs0sk52T2v2gmZVM?type=png)](https://mermaid.live/edit#pako:eNplkLFqAzEMhl9FaGrA9wI3FEIypCWBEt9WZxBnJTGc7avPDikhW_dCl44ZOvQVCh3zQM0j1JdAIVSLxC_x8evfYe01Y4mwCtSuYTpXDnINH0-Ht28YNYZd5AUUBcz5KZnOHD-PHx5gUlUPWb2F8c3p8P7y8_UKksPGaB8GF8T_BQx6zqSaTQWMpBRwTxuSdTBtFHBnacWuE1DxNvqiR1-ZWCh35v41FGg5WDI629_1osK4ZssKyzxqXlJqokLl9vmUUvTy2dVYxpBYYGo1RR4byn9bLJfUdFllbaIPs0sk52T2v2gmZVM)
+
+### Tipos de Servidores
+#### Conceito de servers
+- Arquivos
+- Seguranças (firewall)
+- Streaming
+- E-Mail
+- Web
+
+#### Proxy
+[![](https://mermaid.ink/img/pako:eNqFkbFKA0EQhl9lmCqB3AscIuhFRVAQIzZuiiU7MQd7u8c6K4aQzlJQFLRM5QPYiT5U8gjO5Q4Lj8Sphm8-fgb-GY68IUwRroMuJ3ByrhzI7F2tFs_fYHXJvhzCTpLsQr-zWrzdLz8f4Sz4u2m3NvfFfH1f02xYgW1yJvLLB2Rko9Vha-5hpX7BxeV_obX-95SIf9AR-PAEx44pOOJuE93mIHY7fJMt8tGvPKBwS6FJbmHY9EfzOvawoFDo3EgHswoq5AkVpDCV1dBYR8sKlZuLqiP7wdSNMOUQqYexNJqpn2spr8B0rO2NUDI5-3Ba97qud_4Do5Cylw?type=png)](https://mermaid.live/edit#pako:eNqFkbFKA0EQhl9lmCqB3AscIuhFRVAQIzZuiiU7MQd7u8c6K4aQzlJQFLRM5QPYiT5U8gjO5Q4Lj8Sphm8-fgb-GY68IUwRroMuJ3ByrhzI7F2tFs_fYHXJvhzCTpLsQr-zWrzdLz8f4Sz4u2m3NvfFfH1f02xYgW1yJvLLB2Rko9Vha-5hpX7BxeV_obX-95SIf9AR-PAEx44pOOJuE93mIHY7fJMt8tGvPKBwS6FJbmHY9EfzOvawoFDo3EgHswoq5AkVpDCV1dBYR8sKlZuLqiP7wdSNMOUQqYexNJqpn2spr8B0rO2NUDI5-3Ba97qud_4Do5Cylw)
+
+#### FireWall
+[![](https://mermaid.ink/img/pako:eNqFkcFKw0AQhl9lmFMDzQsEETS1IiiIFS9uD0t3agOb3bBu1FJ68ygoKnrwEDz0AbyJPpR5BCdNFDVQ97T8-_3_zPLPcGQVYYRw4mQ2gd0DYYDPxnFZ3L6Dlpm32RDWwnAdep2yeLz8eL2GfWcvpkFNbjL5sFiq8bASVsExw3cvEJPOtXQrc_sV-gaHR_-FClMb_j6G7NjqsHh1AzvGkzPkgya8rQPTVcL9oiyenjmFwX7i6FxqHXyNaNvYtf09d0DujFwzoiXDj4Vq5NdazV-wiym5VCaKS5lVokA_oZQERnxVNJa59gKFmTMqc28HUzPCyLucuphnSnrqJZLbTDEaS33KKqnEW7dXF73se_4J01-5cg?type=png)](https://mermaid.live/edit#pako:eNqFkcFKw0AQhl9lmFMDzQsEETS1IiiIFS9uD0t3agOb3bBu1FJ68ygoKnrwEDz0AbyJPpR5BCdNFDVQ97T8-_3_zPLPcGQVYYRw4mQ2gd0DYYDPxnFZ3L6Dlpm32RDWwnAdep2yeLz8eL2GfWcvpkFNbjL5sFiq8bASVsExw3cvEJPOtXQrc_sV-gaHR_-FClMb_j6G7NjqsHh1AzvGkzPkgya8rQPTVcL9oiyenjmFwX7i6FxqHXyNaNvYtf09d0DujFwzoiXDj4Vq5NdazV-wiym5VCaKS5lVokA_oZQERnxVNJa59gKFmTMqc28HUzPCyLucuphnSnrqJZLbTDEaS33KKqnEW7dXF73se_4J01-5cg)
+
+#### WebServer
+[![](https://mermaid.ink/img/pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzSspjlWw0dW1U3DR0Pgwv2eCgmdeSWpRXmqJpiZEsRNQ8bSl73f0E6ceoglTEqQJqMsVaFr_GoXg1KKy1KJYqA4opaSjlJtalJuYmQJ0cjVIMEapJCM1NzVGyQrITElNSyzNKYlRismrBSpNLC3JD67MS1ayKikqTdVRKi1ISSxJdclMBPo1V8kqLTGnGCiampJZkl_kCwkGcGjUAgDF7GAD?type=png)](https://mermaid.live/edit#pako:eNqrVkrOT0lVslJSSC9KLMhQ8AmKyVMAAsfoD_Mn7VZIzslMzSspjlWw0dW1U3DR0Pgwv2eCgmdeSWpRXmqJpiZEsRNQ8bSl73f0E6ceoglTEqQJqMsVaFr_GoXg1KKy1KJYqA4opaSjlJtalJuYmQJ0cjVIMEapJCM1NzVGyQrITElNSyzNKYlRismrBSpNLC3JD67MS1ayKikqTdVRKi1ISSxJdclMBPo1V8kqLTGnGCiampJZkl_kCwkGcGjUAgDF7GAD)
+
+#### Database Server
+[![](https://mermaid.ink/img/pako:eNqFkc1Kw0AUhV_lclcNNC8QRNC0_oCCWNGF08Vtc2sDk0mYTMRSunMpKAq67ErcFdyJfaj2EbxpSikocVbDOd85M3DG2E8jxgDhxlI2hJNzZUDO3vVy-jwHTZlLsy7s-P4utBvL6dv94usRzmx6N_Iqcl_I1_eVGnZLoQ4OBX75hJB1ocnW9h6U6DdcXP5XqkwVaDfEfXiCY-PYGnaeJ5HDTeKKe9Bhe8t2_cCfFvgSWjdV2FZfTU5SRxu9RY56lDPk2--V_sfsl1n7SWWwiQnbhOJIRhqXokI35IQVBnKNeECFdgqVmQhKhUs7I9PHwNmCm1hkETluxSTrJhgMSOeichS71J5Ww6_2n_wA42a_Tg?type=png)](https://mermaid.live/edit#pako:eNqFkc1Kw0AUhV_lclcNNC8QRNC0_oCCWNGF08Vtc2sDk0mYTMRSunMpKAq67ErcFdyJfaj2EbxpSikocVbDOd85M3DG2E8jxgDhxlI2hJNzZUDO3vVy-jwHTZlLsy7s-P4utBvL6dv94usRzmx6N_Iqcl_I1_eVGnZLoQ4OBX75hJB1ocnW9h6U6DdcXP5XqkwVaDfEfXiCY-PYGnaeJ5HDTeKKe9Bhe8t2_cCfFvgSWjdV2FZfTU5SRxu9RY56lDPk2--V_sfsl1n7SWWwiQnbhOJIRhqXokI35IQVBnKNeECFdgqVmQhKhUs7I9PHwNmCm1hkETluxSTrJhgMSOeichS71J5Ww6_2n_wA42a_Tg)
+
+
+### Hospedagem de Sites
+- Contratar um servidor para hospedar o seu site.
+- existem varia empresas q oferecem hospedagem para sites.
+
+## Aula 4 - liguagem de programação
+### O que são linguagens de Programação?
+Linguagem de programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras para serem usadas para gerar programas (software)
+
+#### 10 principais linguagens de programação em 2023 segundo a hostinger:
+1. Python
+2. C#
+3. C++
+4. JavaScript
+5. PHP
+6. Swift
+7. Java
+8. Go
+9. SQL
+10. Ruby
+
+### Linguagem Server-Side
+- São liguagens que rodam no servido.
+- Cada linguagem tem sua caracteristica
+
+#### Exemplo de Linguagens Server-Side
+- PHP
+- Java
+- JavaScript
+- Ruby
+- C#
+
+### Linguagem Client-Side
+Linguagens que são executadas do lado do client.
+- JavaScript
+
+O java script roda tanto do lado do servidor como do lado do cliente.
+Isso ocorre pq a google criou uma engine chamada V8, que eh um mecanismo de leitura q interpleta java script.
+Para rodar o Javascript no back end foi criado o NodeJS, que ele vai rodar o V8 no servidor.
+Quem roda verdadeiramente o JavaScript eh o V8, seja do lado do cliente ou do lado do servidor.
+
+[site V8](https://v8.dev)
+
+### HTML não é linguagem de Programação
+- não é uma linguagem de programação
+- HTML é uma linguagem de Marcação
+- Textos delimitados por nomes que o navegador conegue interpletar.
+- Cada nome desses delimitadores tem uma função e comportamento específicos.
 
