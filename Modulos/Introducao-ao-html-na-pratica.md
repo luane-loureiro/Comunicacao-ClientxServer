@@ -37,9 +37,9 @@ Estrutura básica:
 - as tagas funcioan na maioria das vezes em pares tem uma taga de avertura <tag>, e uma de fechamento </tag>, tudo que estiver ente elas recebe aquela marcação.
 
   ### Glossario de Tags
-- <i> </i> - deixa o texto entre elas em itálico.
-- <strong> </Satrong> - Deixa o testo em Negrito.
-- <input type="text>"- adiciona uma caixa de texto, perceba que ela é uma taga que nao precisa de fechamento.
+- ```<i> </i>``` - deixa o texto entre elas em itálico.
+- ```<strong> </Satrong>``` - Deixa o texto em Negrito.
+- ```<input type="text">```- adiciona uma caixa de texto, perceba que ela é uma taga que nao precisa de fechamento.
 
 ## Atributos Básicos
 
