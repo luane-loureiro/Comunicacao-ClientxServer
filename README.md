@@ -13,3 +13,4 @@ Repositorio para guardar resumos da trilha Criando Suas Primeiras Paginas Usando
 |-------|---------|-------|
 | Módulo 1 | Entendendo comunicacao Client X Server | [Resumo](https://github.com/luane-loureiro/DIO-HTML-e-CSS/blob/main/Modulos/Entendendo-comunicacao-clientXserver.md) |
 | Módulo 2 | Introdução ao HTML na Prática | [Resumo](https://github.com/luane-loureiro/DIO-HTML-e-CSS/blob/main/Modulos/Introducao-ao-html-na-pratica.md) |
+| Módulo 3 | Trabalhando com Formulários em HTML | [Resumo](https://github.com/luane-loureiro/DIO-HTML-e-CSS/blob/main/Modulos/formul%C3%A1rios_em_HTML.md) |
