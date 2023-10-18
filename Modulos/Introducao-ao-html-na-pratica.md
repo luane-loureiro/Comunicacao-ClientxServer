@@ -67,7 +67,25 @@ Estrutura básica:
 - mark -> marca texto
 - sub -> coloca o testo sub escrito, para baixo
 - sup -> coloca texto super ecrito, para cima (como marca registrada)
-- 
+
 ## Listas ordenadas e Não Ordenadas
+- ol -> lista ordenada. essa taga precisa se uma tag "filha" para funcionar, cara item dentro da lista deve estar dentro de uma tag li
+- ul -> Lista não ordenada. essa taga precisa se uma tag "filha" para funcionar, cara item dentro da lista deve estar dentro de uma tag li.
+- li -> item da lista
+
+```
+        <p>minha lista</p>
+        <ol>
+            <li>item 1</li>
+            <li>item 2</li>
+            <li>item 3</li>
+        </ol>
+```
 
 ## Link
+- a -> ancora, link.
+  
+#### Atributos para a tag ```<a>```
+- title -> colaca um texto dentro de um "balão"ao passa o mouse sobre o link.
+- target -> escolhe se ao clicar no link a pagina vai abrir na memsa aba (```"_self"```) ou em um aba diferente (```_blank"```)
+
