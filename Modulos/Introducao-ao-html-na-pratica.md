@@ -47,14 +47,27 @@ Estrutura básica:
 - id -> cia um identificador para a tag.
 - style -> atribui um comando css direto no HTML para estilizar uma Tag.
 - class -> cria uma classe, um grupo, de elementos dentro do html
+- width -> altera a largura da imagem.
+- height > altera a altura da imagem.
 
 #### Exemplos de Atributos Específcos:
-- 
-
-## Executando uma Página HTML
-
+- Type - > epecífico da taga <imput>, alterna o tipo de informacao pode ser preenchida no campo. Pode ser usado como Test, number, color...
+- src -> utilizado para indicar para a tag qual arquivo ou mídia utilizar. Recebe valores como links (https://google.com/minhaimagem.jpeg) ou o nome de um arquivo já presente no projeto (/minhaimagem.jpeg)
+- alt -> Específico para a tag <Img>, fornece informações alternativas para uma imagem se um usuário por algum motivo não puder visualizá-la.
+- href -> Específico Para a tag <a>, o atributo href especifica a URL da página para a qual o link vai.
+- target=”blank” -> Específico Para a tag <a>, Esse atributo abre o link do documento em uma nova janela ou aba.
+  
 ## Textos
-
+- h -> taga utilizada para marcar títulos. depois do h se usa um numero de 1 a 6, quanto maior o numero, menor o texto.
+- P -> Paragrafo, texto em corrido, corpo do texto
+- Blockquote -> cria uma citacão
+- Strong -> forte, negrito
+- U -> underlien, sublinhado
+- i -> itálico
+- mark -> marca texto
+- sub -> coloca o testo sub escrito, para baixo
+- sup -> coloca texto super ecrito, para cima (como marca registrada)
+- 
 ## Listas ordenadas e Não Ordenadas
 
 ## Link
