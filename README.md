@@ -3,8 +3,9 @@ Repositorio para guardar resumos da trilha Criando Suas Primeiras Paginas Usando
 
 ## 📑 documentação
 - [Link do Curso](https://www.dio.me/)
-- [Documentação HTML5]()
-- [Documentação CSS3]()
+- [Documentação HTML5](https://html.com/document/)
+- [Documentação CSS3](https://www.w3c.br/Cursos/CursoCSS3/)
+- [W3 Schools](https://www.w3schools.com/)
 
 ## 🖥️ Resumos das Aulas
 
