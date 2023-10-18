@@ -42,6 +42,14 @@ Estrutura básica:
 - ```<input type="text">```- adiciona uma caixa de texto, perceba que ela é uma taga que nao precisa de fechamento.
 
 ## Atributos Básicos
+- São palavras especiais usadas dentro da tag de abertura para controlar o comportamento do elemento. Os atributos HTML são um modificador de um tipo de elemento HTML.
+#### Exemplos de Atributos Genéricos:
+- id -> cia um identificador para a tag.
+- style -> atribui um comando css direto no HTML para estilizar uma Tag.
+- class -> cria uma classe, um grupo, de elementos dentro do html
+
+#### Exemplos de Atributos Específcos:
+- 
 
 ## Executando uma Página HTML
 
