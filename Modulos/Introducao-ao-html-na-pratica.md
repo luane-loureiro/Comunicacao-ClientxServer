@@ -11,11 +11,11 @@
   - [Docs Visual Studio](https://code.visualstudio.com/docs)
   
 
-## Usando inspetor de Elementos
+## Aula 2 - Usando inspetor de Elementos
 - para abrir no google chrome basta apertar F12
 - essa ferramenta seve apenas para estudos, você pode manipular os elementos de uma pagina ou ver como eles foram implementados.
 
-## Estrutúra Básica de HTML
+## Aula 3 - Estrutúra Básica de HTML
 - Um arquivo básico de HTML consiste básicamente de três partes:
 - HTML
 - Head
@@ -33,7 +33,7 @@ Estrutura básica:
 - Tudo que estiver entre as tags Head são coisas que vão ser carregadas antes de exibir para o usuário.
 - Tudo que estiver dentro da tag <Body> é o que de fato vai aparecer para o usuário.
 
-## Falando Sobre Tags
+## Aula 4 - Falando Sobre Tags
 - as tagas funcioan na maioria das vezes em pares tem uma taga de avertura <tag>, e uma de fechamento </tag>, tudo que estiver ente elas recebe aquela marcação.
 
   ### Glossario de Tags
@@ -41,7 +41,7 @@ Estrutura básica:
 - ```<strong> </Satrong>``` - Deixa o texto em Negrito.
 - ```<input type="text">```- adiciona uma caixa de texto, perceba que ela é uma taga que nao precisa de fechamento.
 
-## Atributos Básicos
+## Aula 5 - Atributos Básicos
 - São palavras especiais usadas dentro da tag de abertura para controlar o comportamento do elemento. Os atributos HTML são um modificador de um tipo de elemento HTML.
 #### Exemplos de Atributos Genéricos:
 - id -> cia um identificador para a tag.
@@ -57,7 +57,7 @@ Estrutura básica:
 - href -> Específico Para a tag <a>, o atributo href especifica a URL da página para a qual o link vai.
 - target=”blank” -> Específico Para a tag <a>, Esse atributo abre o link do documento em uma nova janela ou aba.
   
-## Textos
+## Aula 6 - Textos
 - h -> taga utilizada para marcar títulos. depois do h se usa um numero de 1 a 6, quanto maior o numero, menor o texto.
 - P -> Paragrafo, texto em corrido, corpo do texto
 - Blockquote -> cria uma citacão
@@ -68,7 +68,7 @@ Estrutura básica:
 - sub -> coloca o testo sub escrito, para baixo
 - sup -> coloca texto super ecrito, para cima (como marca registrada)
 
-## Listas ordenadas e Não Ordenadas
+## Aula 7 - Listas ordenadas e Não Ordenadas
 - ol -> lista ordenada. essa taga precisa se uma tag "filha" para funcionar, cara item dentro da lista deve estar dentro de uma tag li
 - ul -> Lista não ordenada. essa taga precisa se uma tag "filha" para funcionar, cara item dentro da lista deve estar dentro de uma tag li.
 - li -> item da lista
@@ -82,7 +82,7 @@ Estrutura básica:
         </ol>
 ```
 
-## Link
+## Aula 8 - Link
 - a -> ancora, link.
   
 #### Atributos para a tag ```<a>```
