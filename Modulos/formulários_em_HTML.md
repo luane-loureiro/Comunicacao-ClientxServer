@@ -94,8 +94,44 @@ url	| Define um campo de URL
 week	| Define um campo de controle de semana
 
 ## Check Box e Radio
+### Check Box ```<input type=”checkbox”>```
+O input  do tipo checkbox define uma caixa de seleção. 
+
+A caixa de seleção é mostrada como uma caixa quadrada que pode ser marcada quando é ativada. 
+
+As caixas de seleção permitem que o usuário possa marcar uma ou mais opções. 
+
+###  Radio ```<input type=”radio”>```
+O input do tipo “radio” define um botão de opção. Muito utilizados em formas de grupos, ou seja, um conjunto de opções relacionadas. Dessa forma, o usuário poderá selecionar apenas um botão do tipo radio pertencente a um mesmo grupo.
+
+Para manter um grupo, o nome dos radios devem ser o mesmo, portanto, receberá o mesmo valor no atributo name. Dessa forma, ao selecionar qualquer botão do tipo radio, qualquer outro botão radio do mesmo grupo será desmarcado automaticamente.
+
+Para definir um valor exclusivo para cada botão radio pertencente a um mesmo grupo, basta utilizar o atributo value. Esse valor não será mostrado para o usuário, mas será enviado para o servidor. Portanto, ao enviar um formulário que contenha um grupo de radio, o valor desse grupo será o valor do atributo value do radio selecionado.
+
 
 ## Button e Seus Tipos
+O elemento ```<button>```, como o nome sugere, corresponde a um botão em que a pessoa usuária pode clicar para executar uma determinada ação. 
+Por padrão, sua aparência é semelhante a um botão retangular como os utilizados em aplicações para desktop. Entretanto, ela pode ser alterada por meio de estilos CSS ou também substituída por imagem e textos.
+É importante dizer que o elemento ```<input>``` tem um tipo definido como button que tem o mesmo objetivo do botão, ou seja, executar uma ação ao ser clicado. 
+A principal diferença entre eles é que o ```<input>``` não pode ter imagens ou outros elementos HTML inseridos – o que é possível com a tag ```<button>```.
+
+### Atributos do Elemento HTML ```<button>```
+- Desativando um botão: disabled
+- Escolhendo o nome de um botão: name
+- Definindo a qual formulário um botão pertence: form
+- Definindo o tipo de botão: type
+  O atributo HTML ```<button>``` type determina qual a função que o elemento ```<button>``` terá em um formulário.
+  Existem três possibilidades para esse atributo, são elas:
+    - button: em que o botão tem a finalidade de executar uma determinada função, sem a necessidade de enviar o formulário para o servidor. Um exemplo é um botão para a consulta de CEP, em que dados são coletados de outro local para serem inseridos em campos do formulário;
+    - reset: que tem a função de limpar os dados do formulário. Ao utilizar esse botão, não é necessário criar código JavaScript para que ele cumpra a tarefa de apagar o conteúdo dos campos do formulário;
+    - submit: como já mencionamos, o HTML submit button tem a função de enviar os dados do formulário para o servidor.
+
+
+### ```<button type="button">```
+
+
+
+
 
 ## Select e Seus Tipos
 
