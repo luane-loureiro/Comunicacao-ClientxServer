@@ -116,23 +116,54 @@ Por padrão, sua aparência é semelhante a um botão retangular como os utiliza
 A principal diferença entre eles é que o ```<input>``` não pode ter imagens ou outros elementos HTML inseridos – o que é possível com a tag ```<button>```.
 
 ### Atributos do Elemento HTML ```<button>```
-- Desativando um botão: disabled
-- Escolhendo o nome de um botão: name
-- Definindo a qual formulário um botão pertence: form
-- Definindo o tipo de botão: type
-  O atributo HTML ```<button>``` type determina qual a função que o elemento ```<button>``` terá em um formulário.
-  Existem três possibilidades para esse atributo, são elas:
-    - button: em que o botão tem a finalidade de executar uma determinada função, sem a necessidade de enviar o formulário para o servidor. Um exemplo é um botão para a consulta de CEP, em que dados são coletados de outro local para serem inseridos em campos do formulário;
-    - reset: que tem a função de limpar os dados do formulário. Ao utilizar esse botão, não é necessário criar código JavaScript para que ele cumpra a tarefa de apagar o conteúdo dos campos do formulário;
-    - submit: como já mencionamos, o HTML submit button tem a função de enviar os dados do formulário para o servidor.
+| Atributo | Descriçao |
+|----------|-----------|
+| Disable | desativa um botão |
+| Name | nomeia um Botão |
+| Form | define o formulario que o botão pertence |
+| Type | define o  tipo de Botão |
 
+#### ```< button type="#" >``` 
+- Determina qual a função que o elemento ```<button>``` terá em um formulário.
+- Existem três possibilidades para esse atributo, são elas:
 
-### ```<button type="button">```
-
-
-
+| Type | Descrção |
+| -------| --------|
+| button | Tem a finalidade de executar uma determinada função, sem a necessidade de enviar o formulário para o servidor |
+| Reset |  Tem a função de limpar os dados do formulário |
+| Submit |Tem a função de enviar os dados do formulário para o servidor |
 
 
 ## Select e Seus Tipos
+A tag HTML ```<select>``` representa um controle que apresenta um menu de opções. 
+As opções dentro do menu são representadas pelo elemento ```<option>```, que podem ser agrupados por elementos ```<optgroup>```. 
+As opções podem ser pré-selecionadas para o usuário.
 
-## Tesxr Área
+| Atributo | Descrição |
+|------ |-----------|
+| Autofocus | permite especificar que um controle de formulário deve ter foco de entrada quando a página é carregada. |
+| Disabled | o usuário não pode interagir com o controle. |
+| Form | O elemento form ao qual o elemento select é associado. Se este atributo for especificado, seu valor deve ser o ID de um elemento form no mesmo documento. |
+| Multiple | indica que várias opções podem ser selecionadas na lista. |
+| Name | O nome do controle |
+| Required | indica que uma opção com um valor de string que não esteja vazia deve ser selecionada.|
+| size | Se o controle é apresentado como uma list box com scroll, este atributo representa o número de linhas na list box que devem estar visíveis num determinado momento. | 
+
+## Tesxt Área
+O elemento HTML ```<textarea>``` representa um controle de edição para uma caixa de texto, útil quando você quer permitir ao usuário informar um texto extenso em formato livre, como um comentário ou formulário de retorno.
+
+| Atributos | Descrção | valores possíveis |
+|-----------|----------|----------------|
+| O rows e cols | permitem especificar um tamanho exato para o ```<textarea>``` pegar.| |
+| maxlength | especifica um número máximo de caracteres que o ```<textarea>``` tem permissão para conter. | |
+| minlength | Define um comprimento mínimo considerado válido usando |  |
+| required | Este atributo especifica que o usuário deve preencher um valor antes de enviar um formulário. | |
+| wrap | Indica como o controle quebra o texto.| hard e soft |
+| autocapitalize | controla se e como o valor do texto deve ser automaticamente capitalizado quando é inserido | none, sentences, words, characters |
+| autocomplete | Este atributo indica se o valor do controle pode ser preenchido automaticamente pelo navegador.| on ou off |
+| autofocus | Esse atributo booleano permite especificar que um controle de formulário tenha foco de entrada quando a página for carregada. | |
+| cols | A largura visível do controle de texto, em larguras médias de caracteres. Se for especificado, deve ser um número inteiro positivo. Se não for especificado, o valor padrão é 20 | |
+| form | O elemento do formulário que o <textarea> elemento está associado (seu "proprietário do formulário"). O valor do atributo deve ser o id de um elemento de formulário no mesmo documento. | |
+| placeholder | Uma dica para o usuário sobre o que pode ser inserido no controle. | |
+| spellcheck | Especifica se o <textarea>está sujeito a verificação ortográfica pelo navegador | true, defout , false |
+
