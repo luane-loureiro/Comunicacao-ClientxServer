@@ -47,10 +47,29 @@ A tag <font> era usada no HTML4 para especificar o tipo da fonte, o tamanho e a 
 
 
 ## Aula 03 - Tag ```<div>```, e ```<span>```
-q
+### ```<div>``` Definição e uso:
+- define uma divisão ou seção em um documento HTML.
+- é usada como um contêiner para elementos HTML – que são então estilizados com CSS ou manipulados com JavaScript.
+- é facilmente estilizada usando o atributo class ou id.
+- Qualquer tipo de conteúdo pode ser colocado dentro da ```<div>```
+- Nota: Por padrão, os navegadores sempre colocam uma quebra de linha antes e depois do <div>elemento.
 
+### ```<span>``` Definição e uso:
+- é um contêiner embutido usado para marcar uma parte de um texto ou parte de um documento.
+- é facilmente estilizada por CSS ou manipulada com JavaScript usando o atributo class ou id.
+- é muito parecida com o elemento ```<div>``` , mas ```<div>``` é um elemento de nível de bloco e ```<span>``` é um elemento embutido.
 
 ## Aula 04 - Tag ```<fieldsets>```
+#### Definição e usos
+- é usada para agrupar elementos relacionados em um formulário.
+- Ela desenha uma caixa ao redor dos elementos relacionados.
+- A tag ```<legend>``` é usada para definir uma legenda para o <fieldset>elemento.
+
+| Atributos | Value	| Description |
+|-----------|-------|-------------|
+| disabled	| disabled	| especifica um grupo de elementos de um formulario que devem ser desabilitados. |
+| form	| form_id	| especifica a qual formulario o fildsets pertence. |
+| name	| text	| Especifica um nome para o fildset. |
 
 ## Aula 05 - Tag ```<embeds>```
 
