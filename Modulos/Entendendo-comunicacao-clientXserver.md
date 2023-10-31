@@ -7,10 +7,22 @@
 
 ### Grandes Nomes 
 #### Grace Murray Hopper
+
+<img  alt="Grace Murray Hopper" height="350" src="https://github.com/luane-loureiro/DIO-HTML-e-CSS/assets/100947092/3c0e75d7-a5b6-426a-be79-0cde3e2cc32f">
+
  - Marinha dos EUA
  - Uma das primeiras programadoras do Mark I em 1944
  - Criadora da linguagem de programação de alto nível flow-Matic (base do COBOL)
  - Termo "bug" na computação
+
+#### Ada Love Lace
+
+<img  alt="Ada Love Lace" height="350" src="https://github.com/luane-loureiro/DIO-HTML-e-CSS/assets/100947092/8b78fa68-7034-40d8-bac5-5fb39e0a4a08">
+
+ - matemática Britanica do século XIX
+- Citada como a Primeira Programadora de computadores
+- Trabalhou com a Máquina anlítica  de Charles Babbage.
+  
 
 #### Joseph Carl Robnet licklider
 - Recrutado pela DARPA depois de teorizar sobre uma rede "galática" de computadores.
@@ -22,6 +34,8 @@
 - criador do TCP/IP
   
 #### Tim Berners-Lee
+<img  alt="Tim Berners-Lee" height="350" src="https://github.com/luane-loureiro/DIO-HTML-e-CSS/assets/100947092/897e77d6-09d2-42be-b919-8c0b307f2ca2">
+
 - Inventor do WWW
 - Diretor do W3C, world wide web consortion
 - Diversas homenagens, incluido o título de cavaleiro dado pela Rainha Elizabeth
@@ -41,6 +55,14 @@
 - Fundador da Apple
 - Cocorrente direta da Microsoft
 - Popularizou o Smartphone como conhecemos hoje, atravéz do lansamento do iphone em 29 de junho de 2007.
+
+#### Linus Torvalds
+
+<img  alt="Linus Torvalds" height="350" src="https://github.com/luane-loureiro/DIO-HTML-e-CSS/assets/100947092/4eb4f598-32f8-4f94-b4f6-62631010af45">
+
+- Criador do sistema operacional Linux
+- Programador finlandes
+- Grande contribuidor do software de código aberto.
 
   ## Aula 2 - O que são clientes?
 - cliente é quem consome a informação.
