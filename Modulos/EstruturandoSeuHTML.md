@@ -74,15 +74,15 @@ A tag <font> era usada no HTML4 para especificar o tipo da fonte, o tamanho e a 
 ## Aula 05 - Tag ```<embeds>```
 - define um contêiner para um recurso externo, como uma página da Web, uma imagem, um reprodutor de mídia ou um aplicativo plug-in.- 
 
-#### Aviso
-A maioria dos navegadores não oferece mais suporte a miniaplicativos e plug-ins Java.
-Os controles ActiveX não são mais suportados em nenhum navegador.
-O suporte para Shockwave Flash também foi desativado em navegadores modernos.
+### Aviso
+- A maioria dos navegadores não oferece mais suporte a miniaplicativos e plug-ins Java.
+- Os controles ActiveX não são mais suportados em nenhum navegador.
+- O suporte para Shockwave Flash também foi desativado em navegadores modernos.
 
 ### Sugestão
-Para exibir uma imagem, é melhor usar a tag <img>.
-Para exibir HTML, é melhor usar a <iframe>.
-Para exibir vídeo ou áudio, é melhor usar as tags <video> e <audio>.
+- Para exibir uma imagem, é melhor usar a tag <img>.
+- Para exibir HTML, é melhor usar a <iframe>.
+- Para exibir vídeo ou áudio, é melhor usar as tags <video> e <audio>.
 
 ## Aula 07 - Tag ```<iframe>```
 
