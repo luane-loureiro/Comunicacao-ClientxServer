@@ -85,7 +85,8 @@ A tag <font> era usada no HTML4 para especificar o tipo da fonte, o tamanho e a 
 - Para exibir vídeo ou áudio, é melhor usar as tags <video> e <audio>.
 
 ## Aula 07 - Tag ```<iframe>```
-
+A Tag ```<iframe>``` especifica um quadro embutido.
+Um quadro embutido é usado para incorporar outro documento no documento HTML atual.
 
 ## Aula 08 - Resenha Sobre Cores
 
